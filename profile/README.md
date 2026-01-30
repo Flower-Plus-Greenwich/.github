@@ -8,12 +8,13 @@ FlowerPlus is a web-based flower shop management system developed as a graduatio
 
 ## 👥 Team Members
 - Thắng – Backend Developer
-- [Tên bạn 2] – Frontend Developer
-
+- Thành - Backend Developer
+- Khánh – Frontend Developer
+- Nhân – Frontend Developer
 ## 🛠 Tech Stack
 - Frontend: Next.js, React, Tailwind CSS
 - Backend: Java, Spring Boot
-- Database: MySQL
+- Database: PostgreSQL
 - Version Control: GitHub Organization with branch protection
 
 ## 🔐 Development Workflow
